@@ -1,0 +1,23 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1a_001",
+    "test_case_name": "general_edu_parser",
+    "description": "General Academic PDF Extraction"
+  },
+  "documents": [
+    {
+      "filename": "sample_announcement.pdf",
+      "title": "Sample College Announcement"
+    },
+    {
+      "filename": "study_material.pdf",
+      "title": "Computer Networks Notes"
+    }
+  ],
+  "persona": {
+    "role": "Student"
+  },
+  "job_to_be_done": {
+    "task": "Extract key educational information such as heading outlines (H1-H3), summary, dates, links, registration details from uploaded academic PDF documents"
+  }
+}
