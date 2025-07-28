@@ -1,0 +1,16 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_generalized"
+  },
+  "documents": [
+    { "filename": "doc1.pdf" },
+    { "filename": "doc2.pdf" },
+    { "filename": "doc3.pdf" }
+  ],
+  "persona": {
+    "role": "General User"
+  },
+  "job_to_be_done": {
+    "task": "Extract meaningful headings (H1, H2, H3), summary, dates, links, and registration information."
+  }
+}

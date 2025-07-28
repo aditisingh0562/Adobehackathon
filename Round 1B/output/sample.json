@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Sample Title",
+    "summary": "This is a summary.",
+    "outline": [],
+    "dates": [],
+    "link": [],
+    "registration_info": [],
+    "source_file": "doc1.pdf"
+  },
+  {
+    "title": "Sample Title",
+    "summary": "This is a summary.",
+    "outline": [],
+    "dates": [],
+    "link": [],
+    "registration_info": [],
+    "source_file": "doc2.pdf"
+  },
+  {
+    "title": "Sample Title",
+    "summary": "This is a summary.",
+    "outline": [],
+    "dates": [],
+    "link": [],
+    "registration_info": [],
+    "source_file": "doc3.pdf"
+  }
+]

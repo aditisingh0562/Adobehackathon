@@ -1,0 +1,7 @@
+pymupdf==1.22.0
+pdfplumber==0.10.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.27.1
+pdfminer.six
+sumy
+python-dateutil

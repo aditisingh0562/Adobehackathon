@@ -1,0 +1,16 @@
+{
+  "title": "Extracted title",
+  "outline": [
+    { "level": "H1", "text": "...", "page": 0 },
+    { "level": "H2", "text": "...", "page": 1 }
+  ],
+  "summary": [
+    "...summary sentences from multiple pages..."
+  ],
+  "dates": [
+    "7/21/2025",
+    "August 1, 2025",
+    "31st July 2025"
+  ],
+  "link": "https://..."
+}
